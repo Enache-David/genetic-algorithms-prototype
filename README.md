@@ -17,7 +17,14 @@ This is a prototype that uses genetic algorithms for calculating the maximum val
 * One-point and two-point crossover
 * Mutations
 
+## About the versions
+Version 1 features one-point crossover between two chromosomes.
+<br>
+Version 2 features two-point crossover between two or three chromosomes.
+
 ## Output Preview
+
+[See full output example](https://github.com/Enache-David/genetic-algorithms-prototype/blob/main/featured_output.txt)
 
 
 ### Populatia initiala
