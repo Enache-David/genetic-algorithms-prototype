@@ -1,6 +1,6 @@
 # Genetic Algorithms Prototype
 
-This is a prototype that uses genetic algorithms for calculating the maximum value of a function.
+This is a Python prototype that uses genetic algorithms for calculating the maximum value of a function.
 
 ## Features
 
