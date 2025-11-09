@@ -24,7 +24,7 @@ Version 2 features two-point crossover between two or three chromosomes.
 
 ## Output Preview
 
-<a href="https://github.com/Enache-David/genetic-algorithms-prototype/blob/main/featured_output.txt" target="_blank">See full output example</a>
+[See full output example](https://github.com/Enache-David/genetic-algorithms-prototype/blob/main/featured_output.txt)
 
 
 ### Populatia initiala
